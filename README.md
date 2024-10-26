@@ -1,4 +1,4 @@
-# webcam-3D-handcontrols
+# HandWaveXR
 A full 3D hand controller with depth, using @mediapipe/hands and Three.js.
 
 ## Setup
