@@ -81,7 +81,7 @@ export class HandControls extends THREE.EventDispatcher {
   update(landmarks) {
     if (landmarks.multiHandLandmarks.length === 1) {
       if (this.handsObj) {
-        //  Update the position of the objects for the single detected hand
+       
         //  It update 3D landmark
         for (let l = 0; l < 21; l++) {
           this.handsObj.children[l].position.x =
