@@ -3,7 +3,7 @@ import * as THREE from "three";
 export class HandControls extends THREE.EventDispatcher {
   constructor(target, objects, renderer, camera, scene, isDraggable = false) {
     super();
-    this.target = target; // An Object3D to be used as cursor
+    this.target = target; 
     this.objects = objects; // An array of draggable objects
     this.isDraggable = isDraggable; // A boolean to determine if the element must be draggable after hit
     this.renderer = renderer;
