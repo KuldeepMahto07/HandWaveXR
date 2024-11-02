@@ -11,7 +11,7 @@ A full 3D hand controller with depth, using `@mediapipe/hands` and `Three.js`.
 - [License](#license)
 
 ## Introduction
-HandWaveXR leverages the power of `@mediapipe/hands` for hand tracking and `Three.js` for 3D rendering to provide a seamless experience for full 3D hand control with depth. It enables intuitive hand gestures and interactions in 3D space.
+HandWaveXR leverages the power ,of `@mediapipe/hands` for hand tracking and `Three.js` for 3D rendering to provide a seamless experience for full 3D hand control with depth. It enables intuitive hand gestures and interactions in 3D space.
 
 ## Features
 - Real-time 3D hand tracking
